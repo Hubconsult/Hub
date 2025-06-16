@@ -110,7 +110,7 @@ body {
   .footer-video {
     position: relative;
     width: 100vw;
-    height: 56.25vw; /* Соотношение сторон 16:9 */
+    height: min(40vw, 200px); /* Соотношение сторон 16:9 */
     overflow: hidden;
   }
   
