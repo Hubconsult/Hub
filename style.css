@@ -221,16 +221,15 @@ form button:hover {
 /* Футер */
 footer {
   background-color: #fcdc2c;
-  color: #3d0000; /* тёмный вишнёвый, читаемый */
+  color: #3d0000;
   padding: 20px;
   text-align: center;
   font-size: 14px;
   font-weight: 600;
-  box-shadow: 0 -4px 15px rgba(0,0,0,0.3);
 }
 
 footer a {
-  color: #660000; /* насыщенный вишнёвый */
+  color: #660000;
   text-decoration: none;
 }
 
@@ -401,7 +400,7 @@ footer {
   text-align: center;
   padding: 20px 0;
   background-color: #fcdc2c;
-  color: rgb(116, 101, 247);
+  color: rgb(92, 11, 11);
   margin-top: 40px;
   font-size: 14px;
 }
