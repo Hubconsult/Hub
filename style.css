@@ -220,17 +220,17 @@ form button:hover {
 
 /* Футер */
 footer {
-  background-color: #4935f8;
-  color: white;
+  background-color: #fcdc2c;
+  color: #3d0000; /* тёмный вишнёвый, читаемый */
   padding: 20px;
-  font-size: 14px;
   text-align: center;
+  font-size: 14px;
   font-weight: 600;
   box-shadow: 0 -4px 15px rgba(0,0,0,0.3);
 }
 
 footer a {
-  color: #ffc64d;
+  color: #660000; /* насыщенный вишнёвый */
   text-decoration: none;
 }
 
